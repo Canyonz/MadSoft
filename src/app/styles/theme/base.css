@@ -1,0 +1,9 @@
+:root {
+	--colorBtn: #f0f0f0;
+	--colorError: #e00000;
+
+	--bgColorSteps: #e1e1e1;
+	--bgColorStepsActive: #b82833;
+	--bgColorStepsAnswereds: #161616;
+	--bgColorStepsActive-hover: #d42534;
+}
